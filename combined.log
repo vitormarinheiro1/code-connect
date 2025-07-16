@@ -182,3 +182,5 @@
 {"error":{"clientVersion":"6.12.0","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
 {"error":{"clientVersion":"6.12.0","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
 {"error":{"clientVersion":"6.12.0","name":"PrismaClientInitializationError"},"level":"error","message":"Falha ao obter posts"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"otimizacao-de-performance-no-reactasdasd"}
+{"error":{},"level":"error","message":"Falha ao obter o post com o slug: ","slug":"otimizacao-de-performance-no-reactasd"}
